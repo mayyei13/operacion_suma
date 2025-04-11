@@ -1,6 +1,10 @@
 ![Logo de Python](https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png)
 
 # Aplicacion operacion Suma
+## Desarrollador
+| Apellidos y nombres| 
+| ----|
+|Mendoza Alarcon Maylit|
 ## Descripcion
 El script implementa la suma de dos numeros y realiza la validacion de los operandos 
 ## Funcionalidad
