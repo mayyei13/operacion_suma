@@ -8,7 +8,7 @@ El script implementa la suma de dos numeros y realiza la validacion de los opera
 - **Verifica** que los operandos sean numeros(int o float)
   
 [Repositorio GitHub]
-(https://github.com/mayyei13/operacion_suma.git)0
+(https://github.com/mayyei13/operacion_suma.git)
 
 ### Equipo de desarrollo
 | Apellidos y nombres| Rol |
